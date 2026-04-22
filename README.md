@@ -1,7 +1,7 @@
-🌿 GreenBin — Intelligent Urban Waste Management System
+#🌿 GreenBin — Intelligent Urban Waste Management System
 GreenBin is a smart waste management platform built for municipalities facing urban growth challenges. It provides an interactive dashboard and map to optimize waste collection routes, manage collection points, vehicles, and field agents — while reducing CO₂ emissions and improving recycling rates.
 
-🚀 Features
+#🚀 Features
 
 🗺️ Interactive Map — Visualize collection points with real-time fill levels and statuses
 📊 Centralized Dashboard — Manage collection points, vehicles, and employees in one place
@@ -12,10 +12,10 @@ GreenBin is a smart waste management platform built for municipalities facing ur
 ♻️ Sustainability Tracking — Monitor CO₂ emissions, recycling rates, and collection performance
 
 
-🛠️ Tech Stack
+#🛠️ Tech Stack
 LayerTechnologyFrontendNext.js, ReactData FormatXML / XSDArchitectureObject-Oriented Design (Unified Process)MappingInteractive Map Integration
 
-📦 Getting Started
+#📦 Getting Started
 Prerequisites
 
 Node.js >= 18
@@ -37,7 +37,7 @@ npm run dev
 Open http://localhost:3000 in your browser.
 
 
-📋 Core Entities
+#📋 Core Entities
 
 PointCollecte — Collection points with location, waste type, fill level, and container status
 Vehicule — Fleet of collection vehicles with capacity tracking
